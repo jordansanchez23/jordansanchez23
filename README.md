@@ -1,7 +1,7 @@
 <div align="center">
 
-[![Hello World, I'm Jordan!](assets/header.gif)](https://github.com/jordansanchez23) &nbsp;
-Background GIF by [Hiba]([https://www.pinterest.com/pin/5277724550564022/](https://pin.it/7rrGec09w)) on [Pinterest](https://www.pinterest.com/).
+[![Hello World, I'm Jordan!](assets/header.gif)](https://github.com/jordansanchez23)
+Background GIF by [Hiba]([https://www.pinterest.com/pin/5277724550564022/](https://pin.it/7rrGec09w)) on [Pinterest](https://www.pinterest.com/).&nbsp;
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](www.linkedin.com/in/jordan-sanchez-90b607210) &nbsp;
 [![Outlook](https://skillicons.dev/icons?i=windows)](mailto:jordansanchez.connect@outlook.com?subject=Hello%20Jasper,%20From%20Github)
