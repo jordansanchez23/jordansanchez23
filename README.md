@@ -1,10 +1,10 @@
 <div align="center">
 
-[![Hello World, I'm Jordan!](assets/header.gif)](https://github.com/jordansanchez23)
+[![Hello World, I'm Jordan!](assets/header.gif)](https://github.com/jordansanchez23) &nbsp;
 Background GIF by [Hiba]([https://www.pinterest.com/pin/5277724550564022/](https://pin.it/7rrGec09w)) on [Pinterest](https://www.pinterest.com/).
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](www.linkedin.com/in/jordan-sanchez-90b607210) &nbsp;
-[![Outlook](https://skillicons.dev/icons?i=outlook)](mailto:jordansanchez.connect@outlook.com?subject=Hello%20Jasper,%20From%20Github)
+[![Outlook](https://skillicons.dev/icons?i=windows)](mailto:jordansanchez.connect@outlook.com?subject=Hello%20Jasper,%20From%20Github)
 
 </div>
 
@@ -23,7 +23,14 @@ Background GIF by [Hiba]([https://www.pinterest.com/pin/5277724550564022/](https
 
 ## 💻 My Tech Stack:
 
-[![cs, css, git, , github, html, js, py, vscode](https://skillicons.dev/icons?i=cs, css, git, , github, html, js, py, vscode)](https://skillicons.dev)
+[![C#](https://skillicons.dev/icons?i=cs)](https://skillicons.dev) 
+[![CSS](https://skillicons.dev/icons?i=css)](https://skillicons.dev) 
+[![Git](https://skillicons.dev/icons?i=git)](https://skillicons.dev) 
+[![GitHub](https://skillicons.dev/icons?i=github)](https://skillicons.dev) 
+[![HTML](https://skillicons.dev/icons?i=html)](https://skillicons.dev) 
+[![JavaScript](https://skillicons.dev/icons?i=js)](https://skillicons.dev) 
+[![Python](https://skillicons.dev/icons?i=python)](https://skillicons.dev) 
+[![VSCode](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
 
 ## 🏆 My Stats:
 
