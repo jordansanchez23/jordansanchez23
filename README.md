@@ -1,16 +1,41 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**jordansanchez23/jordansanchez23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Hello World, I'm Jordan!](assets/header.gif)](https://github.com/jordansanchez23)
+Background GIF by [Hiba]([https://www.pinterest.com/pin/5277724550564022/](https://pin.it/7rrGec09w)) on [Pinterest](https://www.pinterest.com/).
 
-Here are some ideas to get you started:
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](www.linkedin.com/in/jordan-sanchez-90b607210) &nbsp;
+[![Outlook](https://skillicons.dev/icons?i=outlook)](mailto:jordansanchez.connect@outlook.com?subject=Hello%20Jasper,%20From%20Github)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+- 🔭 I’m currently working at [Chamber of Commerce](https://jordansanchez23.github.io/wdd231/chamber/index).
+- 🌱 I’m currently learning **Front End Development and how to make Dynamic Web Pages**
+- 👨‍💻 All my projects are available [here](https://github.com/jordansanchez23?tab=repositories).
+- 📫 You can reach me **jordansanchez.connect@outlook.com**
+- 🏆 I am eager to leverage my passion for software development and user experience to contribute to innovative projects in a technology company.
+- ⚡ Fun fact: I read books, play the piano, ukulele and basketball, and love anime/Warhammer 40K!
+
+<div align="center">
+
+## 💡 A Quote:
+
+[![A random quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
+## 💻 My Tech Stack:
+
+[![cs, css, git, , github, html, js, py, vscode](https://skillicons.dev/icons?i=cs, css, git, , github, html, js, py, vscode)](https://skillicons.dev)
+
+## 🏆 My Stats:
+
+<p>
+    <img height=175 alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jordansanchez23&show_icons=true&count_private=true&theme=dark" />&nbsp;&nbsp;
+    <img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jordansanchez23&layout=compact&theme=dark" />&nbsp;&nbsp;
+</p>
+
+## 🎮 When I'm AFK:
+
+![PlayStation 5](https://img.shields.io/badge/Playstation%205-003791?style=for-the-badge&logo=playstation-5&logoColor=white) &nbsp;
+![Netflix](https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white) &nbsp;
+![Crunchyroll](https://img.shields.io/badge/Crunchyroll-F47521?style=for-the-badge&logo=crunchyroll&logoColor=white)
+
+</div>
