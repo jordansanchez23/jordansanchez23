@@ -8,7 +8,7 @@ Background GIF by [Hiba]([https://www.pinterest.com/pin/5277724550564022/](https
 
 </div>
 
-- 🔭 I’m currently working at [Chamber of Commerce](https://jordansanchez23.github.io/wdd231/chamber/index).
+- 🔭 I’m currently working at [Warhammer Nexus](https://jordansanchez23.github.io/warhammer40k/index).
 - 🌱 I’m currently learning **Front End Development and how to make Dynamic Web Pages**
 - 👨‍💻 All my projects are available [here](https://github.com/jordansanchez23?tab=repositories).
 - 📫 You can reach me **jordansanchez.connect@outlook.com**
