@@ -8,8 +8,8 @@ Background GIF by [Hiba]([https://www.pinterest.com/pin/5277724550564022/](https
 
 </div>
 
-- 🔭 I’m currently working at [Warhammer Nexus](https://jordansanchez23.github.io/warhammer40k/index).
-- 🌱 I’m currently learning **Front End Development and how to make Dynamic Web Pages**
+- 🔭 I’m currently working at [University Database](https://github.com/jordansanchez23/University-Database-project).
+- 🌱 I’m currently learning Front-End Development, creating dynamic web pages, and working with databases. This includes writing queries, establishing table relationships, analyzing data, and using advanced SQL techniques such as INNER JOINs and OUTER JOINs.**
 - 👨‍💻 All my projects are available [here](https://github.com/jordansanchez23?tab=repositories).
 - 📫 You can reach me **jordansanchez.connect@outlook.com**
 - 🏆 I am eager to leverage my passion for software development and user experience to contribute to innovative projects in a technology company.
