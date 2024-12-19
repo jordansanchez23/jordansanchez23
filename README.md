@@ -31,7 +31,7 @@ Background GIF by [Hiba]([https://www.pinterest.com/pin/5277724550564022/](https
 [![JavaScript](https://skillicons.dev/icons?i=js)](https://skillicons.dev) 
 [![Python](https://skillicons.dev/icons?i=python)](https://skillicons.dev) 
 [![VSCode](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
-
+[![VSCode](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
 ## 🏆 My Stats:
 
 <p>
